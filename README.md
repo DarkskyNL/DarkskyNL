@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarkskyNL
 - 👀 I’m interested in speedrunning marathons and speedrunning tournament
 - 🌱 I’m currently learning speerunning stream tech
-- 💞️ I’m looking to collaborate on anyting speedrunning marathon tech
+- 💞️ I’m looking to collaborate on anything speedrunning marathon tech
 - 📫 How to reach me on Discord DarkSkyNL (darkskynl) or Twitter on @DarkskynL
 
 <!---
